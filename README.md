@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/174fe5f2-ab90-4462-a094-a43cd9f0d9c1)# NAME : SHREYESHKAR SEKAR 
+# NAME : SHREYESHKAR SEKAR 
 # REGISTER NUMBER : 212224220099
 
 # Exp - 5 STUDENT ENROLLMENT SYSTEM
